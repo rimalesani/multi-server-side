@@ -1,4 +1,4 @@
 homepage: "https://www.linkedin.com/company/rm-digitalanalytics/"
 versions:
-  - sha: --
+  - sha: f2ee9764653c850e1628a5982c886452bcc09dbd
     changeNotes: Initial Version
